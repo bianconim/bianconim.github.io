@@ -31,13 +31,3 @@ EDITING
 
 CUSTOM DOMAIN
 Do not add a CNAME file until you are ready to switch matteobianconi.com from WordPress to GitHub Pages.
-
-VISUAL POLICY — HYBRID
-
-Homepage:
-- Hero, Teaching, Outreach and Advocacy are intentionally abstract.
-- Research is scientifically grounded: it shows the aligned source–lens–observer case for gravitational lensing. Exact alignment gives an Einstein ring. The image is explicitly labelled as a schematic.
-
-Rule for future additions:
-- Decorative visual = abstract.
-- Scientific visual = checked for accuracy.
