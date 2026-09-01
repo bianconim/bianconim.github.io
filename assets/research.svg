@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+<rect width="900" height="560" fill="#111214"/>
+<line x1="74" y1="280" x2="826" y2="280" stroke="#f3eee5" stroke-width="1.2" stroke-dasharray="7 8" opacity=".38"/>
+<path d="M810 280 L455 165 L85 280" fill="none" stroke="#e5ad4a" stroke-width="3.1"/>
+<path d="M810 280 L455 395 L85 280" fill="none" stroke="#e5ad4a" stroke-width="3.1"/>
+<circle cx="455" cy="280" r="58" fill="#d46650" opacity=".9"/>
+<circle cx="455" cy="280" r="91" fill="none" stroke="#f4efe7" stroke-width="2" opacity=".38"/>
+<circle cx="85" cy="280" r="12" fill="#f4efe7"/>
+<circle cx="810" cy="280" r="10" fill="#6e9a98"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#f4efe7">
+  <text x="47" y="319" font-size="19" opacity=".84">observer</text>
+  <text x="425" y="359" font-size="19" opacity=".84">lens</text>
+  <text x="780" y="319" font-size="19" opacity=".84">source</text>
+</g>
+<g transform="translate(690 96)">
+  <circle cx="0" cy="0" r="67" fill="#1f2d57" opacity=".75"/>
+  <circle cx="0" cy="0" r="46" fill="none" stroke="#e5ad4a" stroke-width="7"/>
+  <circle cx="0" cy="0" r="15" fill="#d46650"/>
+  <path d="M0 -56 V-81" stroke="#f4efe7" stroke-width="1.4"/>
+  <text x="-27" y="-92" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#f4efe7">θ_E</text>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#f4efe7" opacity=".68">
+  <text x="558" y="35" font-size="14" letter-spacing="2">EXACT ALIGNMENT → EINSTEIN RING</text>
+  <text x="558" y="55" font-size="12" letter-spacing="1.2">SCHEMATIC, NOT AN OBSERVATIONAL IMAGE</text>
+</g>
+</svg>
